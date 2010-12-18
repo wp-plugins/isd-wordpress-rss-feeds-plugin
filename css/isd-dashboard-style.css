@@ -1,0 +1,26 @@
+@charset "UTF-8";
+/* CSS Document */
+
+span.isd-head {
+display:block;
+height:15px;
+margin-left:35px;
+}
+
+div.isd-head {
+	
+}
+
+div.isd-head a {
+	
+}
+
+div.isd-body {
+	margin-bottom:10px;
+	border-bottom:1px solid #ECECEC;
+}
+
+div.isd-body p {
+	font-size:11px;
+	line-height:18px;
+}
